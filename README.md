@@ -1,2 +1,2 @@
-# ManagingComponentTree
+# SpreadReact
 Created with CodeSandbox
